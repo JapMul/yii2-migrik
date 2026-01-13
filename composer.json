@@ -1,5 +1,5 @@
 {
-  "name": "insolita/yii2-migration-generator",
+  "name": "japmul/yii2-migrik",
   "description": "Set of gii tools for generating  files for migration by schema of table , phpdoc or table data",
   "type": "yii2-extension",
   "keywords": [
